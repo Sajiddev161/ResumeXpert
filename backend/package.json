@@ -4,8 +4,9 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
-    "dev":"node server"
+    
+    "start": "node server.js"
+ 
   },
   "author": "",
   "license": "ISC",
